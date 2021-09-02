@@ -1,0 +1,14 @@
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 100px;
+    background-color: rebeccapurple;
+    margin: 20px 0 0 0;
+    color: white;
+    font-size: 18px;
+}
+span{
+    font-size: 50px;
+}
